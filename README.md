@@ -1,7 +1,7 @@
 ### Hi there, I'm [Abdul Kader][website] 👋
 
 [![Website](https://img.shields.io/website?label=abdulkader.tk&style=for-the-badge&url=https%3A%2F%2Fabdulkader.tk)](https://abdulkader.tk)
-[![Twitter Follow](https://img.shields.io/twitter/follow/itsabdulkader?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FtheAbdulKader&screen_name=itsabdulkader)
+[![Twitter Follow](https://img.shields.io/twitter/follow/itsabdulkader?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FiAbdulKader&screen_name=itsabdulkader)
 
 ## I'm a Student And Trying To Be A Full Stack Developer!!
 - 🔭 I have experience with HTML, CSS, Bootstrap, JQuery!
@@ -31,6 +31,8 @@
 <img align="left" alt="Sass" width="26px" margin-top="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Sass" width="26px" margin-top="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Sass" width="26px" margin-top="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Sass" width="26px" margin-top="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/expressjs/expressjs.png" />
+<img align="left" alt="Sass" width="26px" margin-top="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 
 
@@ -44,8 +46,8 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/theAbdulKader/converter-app/issues/1) in [theAbdulKader/converter-app](https://github.com/theAbdulKader/converter-app)
-2. 🎉 Merged PR [#2](https://github.com/theAbdulKader/converter-app/pull/2) in [theAbdulKader/converter-app](https://github.com/theAbdulKader/converter-app)
+1. ❗️ Closed issue [#1](https://github.com/iAbdulKader/converter-app/issues/1) in [iAbdulKader/converter-app](https://github.com/iAbdulKader/converter-app)
+2. 🎉 Merged PR [#2](https://github.com/iAbdulKader/converter-app/pull/2) in [iAbdulKader/converter-app](https://github.com/iAbdulKader/converter-app)
 <!--END_SECTION:activity-->
 
 
@@ -54,7 +56,7 @@
 </details>
 <br />
 
-<img align="left" padding-bottom="10px" alt="Abdul Kader's GitHub Stats" src="https://github-stats-alpha.vercel.app/api/?username=theAbdulkader" /><br />
+<img align="left" padding-bottom="10px" alt="Abdul Kader's GitHub Stats" src="https://github-stats-alpha.vercel.app/api/?username=iAbdulkader" /><br />
 
 \
 &nbsp;
@@ -69,7 +71,7 @@
 \
 &nbsp;
 
-[![Top Langs](https://github-readme-stats-abdulkader.vercel.app/api/top-langs/?username=theAbdulKader&layout=compact)](https://github.com/theAbdulKader)
+[![Top Langs](https://github-readme-stats-abdulkader.vercel.app/api/top-langs/?username=iAbdulKader&layout=compact)](https://github.com/iAbdulKader)
 
 
 
