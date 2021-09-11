@@ -46,8 +46,8 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/iAbdulKader/converter-app/issues/1) in [iAbdulKader/converter-app](https://github.com/iAbdulKader/converter-app)
-2. 🎉 Merged PR [#2](https://github.com/iAbdulKader/converter-app/pull/2) in [iAbdulKader/converter-app](https://github.com/iAbdulKader/converter-app)
+1. ❗️ Closed issue [#1](https://github.com/theAbdulKader/converter-app/issues/1) in [theAbdulKader/converter-app](https://github.com/theAbdulKader/converter-app)
+2. 🎉 Merged PR [#2](https://github.com/theAbdulKader/converter-app/pull/2) in [theAbdulKader/converter-app](https://github.com/theAbdulKader/converter-app)
 <!--END_SECTION:activity-->
 
 
