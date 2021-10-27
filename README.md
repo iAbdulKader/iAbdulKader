@@ -46,8 +46,8 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/iAbdulKader/url-shortner/pull/1) in [iAbdulKader/url-shortner](https://github.com/iAbdulKader/url-shortner)
-2. ❗️ Closed issue [#1](https://github.com/theAbdulKader/converter-app/issues/1) in [theAbdulKader/converter-app](https://github.com/theAbdulKader/converter-app)
+1. ❗️ Opened issue [#1](https://github.com/qnxdev/express-vercel-serverless/issues/1) in [qnxdev/express-vercel-serverless](https://github.com/qnxdev/express-vercel-serverless)
+2. 💪 Opened PR [#1](https://github.com/iAbdulKader/url-shortner/pull/1) in [iAbdulKader/url-shortner](https://github.com/iAbdulKader/url-shortner)
 <!--END_SECTION:activity-->
 
 
