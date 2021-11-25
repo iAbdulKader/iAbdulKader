@@ -99,9 +99,14 @@
 </p>
 <br>
 
+<hr>
+<p align="center">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=iabdulkader&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="contribution chart" />
+</p>
+<hr>
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/qnxdev/express-vercel-serverless/issues/1) in [qnxdev/express-vercel-serverless](https://github.com/qnxdev/express-vercel-serverless)
