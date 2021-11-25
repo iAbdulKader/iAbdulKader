@@ -39,6 +39,7 @@
 
 <p align="center"> 
    <h2 align="center">Languages and Tools:</h2>
+   <p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a> 
@@ -111,6 +112,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
+</p>
 </p>
 <br>
 
