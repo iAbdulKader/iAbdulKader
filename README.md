@@ -129,6 +129,7 @@
 </p>
 <hr>
 
+<p align="center">
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
@@ -141,6 +142,7 @@
 
 
 </details>
+</p>
 <br>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=iabdulkader&show_icons=true&theme=dracula&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=My Github Figures" alt="iabdulkader" />
