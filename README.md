@@ -58,20 +58,7 @@
 
 <img align="left" padding-bottom="10px" alt="Abdul Kader's GitHub Stats" src="https://github-stats-alpha.vercel.app/api/?username=iAbdulkader" /><br />
 
-\
-&nbsp;
-\
-&nbsp;
-\
-&nbsp;
-\
-&nbsp;
-\
-&nbsp;
-\
-&nbsp;
 
-[![Top Langs](https://github-readme-stats-abdulkader.vercel.app/api/top-langs/?username=iAbdulKader&layout=compact)](https://github.com/iAbdulKader)
 
 
 
