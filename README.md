@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=abdulkader.tk&style=for-the-badge&url=https%3A%2F%2Fabdulkader.tk)](https://abdulkader.tk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsabdulkader?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FiAbdulKader&screen_name=itsabdulkader)
 
-## I'm a Student And Trying To Be A Full Stack Developer!!
-- 🔭 I have experience with HTML, CSS, Bootstrap, JQuery!
-- 🌱 I’m currently learning Javascript 🤣
+## I'm A Very Passionate Full Stack Developer!!
+- 🙃 Have working knowledge in javascript, JQuery, Typescript, little bit of Python, C, C++ & C#!
+- 🌱 Currently learning and working with Typescript & Javascript 🤣
 - 🤗 I've built some projects.
-- 🥅 2021 Goals: Learn Javascript and React
-- ⚡ Fun fact: I love to watch Movies and Web Series
+- 🥅 2022 Goals: Become a expert MERN stack developer.
+- ⚡ Fun fact: I love to watch Movies and Web Series.
 
 
 <p align="center"> 
