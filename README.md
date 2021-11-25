@@ -119,8 +119,9 @@
 </details>
 <br />
 
+<p align="center">
 <img align="left" padding-bottom="10px" alt="Abdul Kader's GitHub Stats" src="https://github-stats-alpha.vercel.app/api/?username=iAbdulkader" /><br />
-
+</p>
 
 
 
