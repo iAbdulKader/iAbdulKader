@@ -129,7 +129,14 @@
 </p>
 <hr>
 
+
+
+
 <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iabdulkader&show_icons=true&theme=dracula&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=My Github Figures" alt="iabdulkader" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iabdulkader&theme=dracula&hide_border=true" alt="iabdulkader" />
+</p>
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
@@ -137,18 +144,8 @@
 1. 🗣 Commented on [#1](https://github.com/qnxdev/express-vercel-serverless/issues/1) in [qnxdev/express-vercel-serverless](https://github.com/qnxdev/express-vercel-serverless)
 2. ❗️ Opened issue [#1](https://github.com/qnxdev/express-vercel-serverless/issues/1) in [qnxdev/express-vercel-serverless](https://github.com/qnxdev/express-vercel-serverless)
 <!--END_SECTION:activity-->
-
-
-
-
 </details>
-</p>
 <br>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iabdulkader&show_icons=true&theme=dracula&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=My Github Figures" alt="iabdulkader" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iabdulkader&theme=dracula&hide_border=true" alt="iabdulkader" />
-</p>
-
 
 
 
