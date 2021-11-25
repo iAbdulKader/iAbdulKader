@@ -105,6 +105,13 @@
 </p>
 <hr>
 
+<p align="center">
+<h3 align="center">🐍 My Snake Contribution Graph 
+  <img align="center" src="https://github.com/tks18/tks18/raw/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+</h3>
+</p>
+<hr>
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
