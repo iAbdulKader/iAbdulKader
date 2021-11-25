@@ -11,14 +11,15 @@
 - ⚡ Fun fact: I love to watch Movies and Web Series
 
 
-## Connect with me:
+<p align="center"> 
+   <h2 align="center">Connect with me:</h2>
 
 [<img align="left" alt="abdulkader.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AbdulKader | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AbdulKader | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AbdulKader | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+</p>
+<br>
 
 
 
