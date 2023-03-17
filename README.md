@@ -132,10 +132,8 @@
 </p>
 <hr>
 
-<p align="center">
-
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iabdulkader&theme=dracula&hide_border=true" alt="iabdulkader" />
-</p>
+
 <br>
 
 <details>
