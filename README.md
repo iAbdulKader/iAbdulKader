@@ -132,8 +132,10 @@
 </p>
 <hr>
 
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=Abdul Kader's Github Figures" alt="iabdulkader" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iabdulkader&theme=dracula&hide_border=true" alt="iabdulkader" />
-
+</p>
 <br>
 
 <details>
