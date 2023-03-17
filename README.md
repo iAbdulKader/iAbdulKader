@@ -153,4 +153,3 @@
 [twitter]: https://twitter.com/itsabdulkader
 [instagram]: https://instagram.com/itsabdulkader
 [linkedin]: https://linkedin.com/in/itsabdulkader
-](https://github-readme-stats.vercel.app/api?username=iabdulkader&show_icons=true&theme=dracula&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=Abdul Kader's Github Figures)
