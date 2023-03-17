@@ -4,12 +4,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsabdulkader?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FiAbdulKader&screen_name=itsabdulkader)
 
 ## I'm A Very Passionate Full Stack Developer!!
+
 - 🙃 Have working knowledge in javascript, JQuery, Typescript, little bit of Python, C, C++ & C#!
 - 🌱 Currently learning and working with Typescript & Javascript 🤣
 - 🤗 I've built some projects.
 - 🥅 2022 Goals: Become a expert MERN stack developer.
 - ⚡ Fun fact: I love to watch Movies and Web Series.
-
 
 <p align="center"> 
    <h2 align="center">Connect with me:</h2>
@@ -33,9 +33,6 @@
    </p>
 </p>
 <br>
-
-
-
 
 <p align="center"> 
    <h2 align="center">Languages and Tools:</h2>
@@ -128,12 +125,6 @@
 </p>
 <br>
 
-<hr>
-<p align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=iabdulkader&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="contribution chart" />
-</p>
-<hr>
-
 <p align="center">
 <h3 align="center">🐍 My Snake Contribution Graph 
   <img align="center" src="https://github.com/iabdulkader/iabdulkader/raw/output/github-contribution-grid-snake.svg" alt="contribution graph" />
@@ -141,27 +132,22 @@
 </p>
 <hr>
 
-
-
-
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=iabdulkader&show_icons=true&theme=dracula&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=My Github Figures" alt="iabdulkader" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iabdulkader&theme=dracula&hide_border=true" alt="iabdulkader" />
 </p>
 <br>
 
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+
 1. ❌ Closed PR [#1](https://github.com/iAbdulKader/url-shortner/pull/1) in [iAbdulKader/url-shortner](https://github.com/iAbdulKader/url-shortner)
 2. 🗣 Commented on [#1](https://github.com/qnxdev/express-vercel-serverless/issues/1) in [qnxdev/express-vercel-serverless](https://github.com/qnxdev/express-vercel-serverless)
-<!--END_SECTION:activity-->
-</details>
-<br>
-
-
+   <!--END_SECTION:activity-->
+   </details>
+   <br>
 
 [website]: https://abdulkader.tk
 [twitter]: https://twitter.com/itsabdulkader
