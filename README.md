@@ -1,4 +1,4 @@
-### Hi there, I'm [Abdul Kader][website] 👋
+[### Hi there, I'm [Abdul Kader][website] 👋
 
 [![Website](https://img.shields.io/website?label=abdulkader.live&style=for-the-badge&url=https%3A%2F%2Fabdulkader.live)](https://abdulkader.live)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsabdulkader?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FiAbdulKader&screen_name=itsabdulkader)
@@ -153,3 +153,4 @@
 [twitter]: https://twitter.com/itsabdulkader
 [instagram]: https://instagram.com/itsabdulkader
 [linkedin]: https://linkedin.com/in/itsabdulkader
+](https://github-readme-stats.vercel.app/api?username=iabdulkader&show_icons=true&theme=dracula&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=Abdul Kader's Github Figures)
